@@ -3,7 +3,7 @@
 
 
 - 👋 ola, meu nome e **@luiz1227jrbb**
-- 📫 meu email de contato e [email](luiz.rabelo.morais@escola.pr.gov.br)
+- 📫 meu email de contato e [email](luiz.rabelo.morais@escola.pr.gov.br)<a href="mailto:luiz.rabelo.morais@escola.pr.gov.br"></a>
 - 👀 eu estou interessado em aprender programar
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
